@@ -71,7 +71,7 @@ getStatus modulus(int num1,int num2,int* res){
 }
 
 getStatus power(int num1,int num2,int* res){
-    long int pow = num1**num2;
+    long int pow = num1 ^ num2;
      
     if(pow > INT_MAX)
         return OVERFLOW;

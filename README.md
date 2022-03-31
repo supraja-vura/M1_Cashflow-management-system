@@ -3,9 +3,12 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/af4edb2ed84a41c4a3376364800aaa45)](https://www.codacy.com/gh/supraja-vura/M1_SIMPLE-CALCI/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=supraja-vura/M1_SIMPLE-CALCI&amp;utm_campaign=Badge_Grade)
 
+* Codiga-Static Analysis
 
 
+![Quality](https://api.codiga.io/project/32308/score/svg)
 
+![Code Quality](https://api.codiga.io/project/32308/status/svg)
 
 
 

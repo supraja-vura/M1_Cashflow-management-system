@@ -9,10 +9,3 @@
 ![Quality](https://api.codiga.io/project/32308/score/svg)
 
 ![Code Quality](https://api.codiga.io/project/32308/status/svg)
-
-
-
-[![Cppcheck Analysis](https://github.com/supraja-vura/M1_SIMPLE-CALCI/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/supraja-vura/M1_SIMPLE-CALCI/actions/workflows/cppcheck-analysis.yml)
-
-
-[![Unit testing](https://github.com/supraja-vura/M1_SIMPLE-CALCI/actions/workflows/unit-test.yml/badge.svg)](https://github.com/supraja-vura/M1_SIMPLE-CALCI/actions/workflows/unit-test.yml)

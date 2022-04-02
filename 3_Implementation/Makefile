@@ -1,5 +1,5 @@
-main.exe: main.c src/calculator.c
-		gcc -Iinc ./src/calculator.c ./main.c -o main.exe
+main.exe: main.c src/calci.c
+		gcc -Iinc ./src/calci.c ./main.c -o main.exe
 
 run : main.exe
 		./main.exe

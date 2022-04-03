@@ -1,6 +1,6 @@
 # Simple Calculator
-## Introduction
-Simple calculator is a project to allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project which I'm Implementing ,also included two additional operations such as Power ,modulas .However, the input has to be in the form "number1 operator1 number2 "(i.e 4*27).
+## Introduction:
+     Simple calculator is a project to allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project which I'm Implementing ,also included two additional operations such as Power ,modulas .However, the input has to be in the form "number1 operator1 number2 "(i.e 4*27).
  
 ## Swot Analysis
  

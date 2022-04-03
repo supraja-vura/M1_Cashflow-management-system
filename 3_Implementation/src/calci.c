@@ -1,3 +1,7 @@
+/* 
+Reference : Bharat Gopal
+Link : https://github.com/Bharathgopal/M1_March_2022/tree/main/3_Implementation/version2
+*/
 #include "calci.h"
 
 getStatus addition(int num1,int num2,int* res){

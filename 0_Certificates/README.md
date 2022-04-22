@@ -1,4 +1,4 @@
-# Certificates
+## Certificates
 * Basics of C Programming Certificate: 
 ![cert-1089-25220988](https://user-images.githubusercontent.com/68106099/160234988-1107d017-7d46-4795-a19d-d607bf7f57bb.jpg)
 * Basics of Working on Linux OS and command line Interface: 
